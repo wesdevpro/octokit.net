@@ -1,0 +1,28 @@
+Tool 'dotnet-format' (version '5.1.250801') was restored. Available commands: dotnet-format
+
+Restore was successful.
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+
+----------------------------------------
+Setup
+----------------------------------------
+Calculating semantic version...
+Version:        10.1.0
+Version suffix: RemoveUnitTestWa0003
+Configuration:  Release
+Target:         Default
+GitHub Actions: False
+
+========================================
+Clean
+========================================
+
+========================================
+Restore
+========================================
+  Determining projects to restore...
+  Restored E:\GitHub\MyOrganizations\other\octokit.net\Octokit.Generators\Octokit.Generators.csproj (in 384 ms).
+  Restored E:\GitHub\MyOrganizations\other\octokit.net\Octokit.AsyncPaginationExtension\Octokit.AsyncPaginationExtension.csproj (in 5.84 sec).
+  Restored E:\GitHub\MyOrganizations\other\octokit.net\Octokit.Reactive\Octokit.Reactive.csproj (in 5.84 sec).
+  Restored E:\GitHub\MyOrganizations\other\octokit.net\Octokit\Octokit.csproj (in 5.85 sec).
